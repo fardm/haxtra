@@ -77,7 +77,7 @@ description: من حسین فردمحمدی هستم و در حوزه طراحی
         <div class="box">
             <h3 style="align-items: baseline;"><img src="/images/briefcase.svg" class="icon-title"> تجربیات</h3>
             <div class="timeline">
-                <!-- <div class="timeline-item">
+                <div class="timeline-item">
                     <div class="timeline-icon">۱۴۰۳</div>
                     <div class="timeline-content">
                     <p class="timeline-date">مهر ۱۴۰۳ تاکنون</p>
@@ -85,7 +85,7 @@ description: من حسین فردمحمدی هستم و در حوزه طراحی
                     <p style="font-size: 1em !important;">طراحی و صفحه آرایی، گرافیک شبکه‌های اجتماعی</p>
                     <a href="https://greenpalm.net/" target="_blank" rel="nofollow">{{< icon "external-link" >}}</a>
                     </div>
-                </div> -->
+                </div>
                 <div class="timeline-item">
                     <div class="timeline-icon">۱۴۰۱</div>
                     <div class="timeline-content">
