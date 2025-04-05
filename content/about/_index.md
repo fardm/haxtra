@@ -34,13 +34,13 @@ description: من حسین فردمحمدی هستم و در حوزه طراحی
         <img src="/images/profile.webp" alt="profile" width="175px" height="175px">
         <h3 align="center">حسین فردمحمدی</h3>
         <p align="center" style="color: #a5a5a5; font-size: 1.3em">طراح گرافیک</p>
-        <br/>
+        <br>
         <div align="center" class="group1">
             <a href="http://instagram.com/hoseinfm.ir" title="اینستاگرام" class="footer-link" target="_blank"><img src="/images/instagram.svg" class="footer-svg" alt="instagram"></a>
             <a href="https://t.me/fardmim" title="تلگرام" class="footer-link" target="_blank"><img src="/images/telegram.svg" class="footer-svg" alt="telegram"></a>
             <a href="https://eitaa.com/fardmim" title="ایتا" class="footer-link" target="_blank"><img src="/images/eitaa.svg" class="footer-svg" alt="eitaa"></a>
         </div>
-        <br/><br/>
+        <br><br>
         <!-- <hr>
         <div>
             {{< box title="شماره تماس" info="" icon="/images/phone.svg" >}}
@@ -49,25 +49,25 @@ description: من حسین فردمحمدی هستم و در حوزه طراحی
             {{< box title="نمونه‌کارها" info="⟶hoseinfm.ir/portfolio" link="https://hoseinfm.ir/portfolio/" icon="/images/link.svg" >}}
         <div> -->
         <hr>
-        <br/>
+        <br>
         <p align="center">نرم‌افزارها<p>
         <div>
             {{< skills title="Photoshop" value="90%" >}}
             {{< skills title="Illustrator" value="80%" >}}
             {{< skills title="Premiere" value="65%" >}}
         </div>
-        <br/>
+        <br>
         <hr>
-        <br/>
+        <br>
             <p align="center" style="margin-bottom: 15px !important;">مهارت‌ها<p>
             {{< hextra/hero-badge >}}<span>طراحی پوستر</span>{{< /hextra/hero-badge >}}
             {{< hextra/hero-badge >}}<span>طراحی گزارش عملکرد</span>{{< /hextra/hero-badge >}}
             {{< hextra/hero-badge >}}<span>بصری سازی داده</span>{{< /hextra/hero-badge >}}
             {{< hextra/hero-badge >}}<span>طراحی سایت</span>{{< /hextra/hero-badge >}}
             {{< hextra/hero-badge >}}<span>سئو</span>{{< /hextra/hero-badge >}}
-        <br/><br/>
-        <hr>
-            {{< box title="زبان انگلیسی" info="سطح A1" icon="/images/English.svg" >}}
+        <br><br>
+        <!-- <hr>
+            {{< box title="زبان انگلیسی" info="سطح A1" icon="/images/English.svg" >}} -->
     </aside>
     <main class="content">
         <div class="box">
@@ -86,7 +86,7 @@ description: من حسین فردمحمدی هستم و در حوزه طراحی
                     <a href="https://greenpalm.net/" target="_blank" rel="nofollow">{{< icon "external-link" >}}</a>
                     </div>
                 </div>
-                <div class="timeline-item">
+                <!-- <div class="timeline-item">
                     <div class="timeline-icon">۱۴۰۱</div>
                     <div class="timeline-content">
                     <p class="timeline-date">تیر ۱۴۰۱ تاکنون</p>
@@ -94,7 +94,7 @@ description: من حسین فردمحمدی هستم و در حوزه طراحی
                     <p style="font-size: 1em !important;">طراحی پوستر، کاتالوگ و گرافیک شبکه‌های اجتماعی به صورت فریلنسینگ</p>
                     <a href="https://www.karlancer.com/profile/116169" target="_blank" rel="nofollow">{{< icon "external-link" >}}</a>
                     </div>
-                </div>
+                </div> -->
                 <div class="timeline-item">
                     <div class="timeline-icon">۱۴۰۰</div>
                     <div class="timeline-content">
