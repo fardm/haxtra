@@ -2,7 +2,7 @@
 title: درباره من
 toc: false
 layout: wide
-description: من حسین فردمحمدی هستم و در حوزه طراحی گرافیک فعالیت می‌کنم. تمرکز من بر ارائه طرح‌هایی است که مفاهیم پیچیده را به تصاویر ساده و قابل درک تبدیل می‌کنند تا پیام‌ها به بهترین شکل به مخاطب منتقل شوند.
+description: من حسین فردمحمدی هستم. در زمینه‌ی طراحی پوستر و تولید محتوای گرافیکی برای وب و شبکه‌های اجتماعی فعالیت می‌کنم. در طول فعالیتم با گروه‌ها و مجموعه‌های مختلف، همواره تلاش کردم با استفاده از طراحی‌های ساده و خلاقانه پیام هر پروژه را به شکلی واضح و تأثیرگذار به مخاطب منتقل کنم.
 ---
 
 <style>
@@ -52,6 +52,7 @@ description: من حسین فردمحمدی هستم و در حوزه طراحی
         <br>
         <p align="center">نرم‌افزارها<p>
         <div>
+            {{< skills title="Figma" value="80%" >}}
             {{< skills title="Photoshop" value="90%" >}}
             {{< skills title="Illustrator" value="80%" >}}
             {{< skills title="Premiere" value="65%" >}}
@@ -72,7 +73,7 @@ description: من حسین فردمحمدی هستم و در حوزه طراحی
     <main class="content">
         <div class="box">
             <h3 style="align-items: baseline;"><img src="/images/member.svg" class="icon-title"> درباره من</h3>
-            <p>من حسین فردمحمدی هستم و در حوزه طراحی گرافیک فعالیت می‌کنم. تمرکز من بر ارائه طرح‌هایی است که مفاهیم پیچیده را به تصاویر ساده و قابل درک تبدیل می‌کنند تا پیام‌ها به بهترین شکل به مخاطب منتقل شوند. من به یادگیری مداوم اعتقاد دارم و همیشه سعی می‌کنم با استفاده از جدیدترین ابزارها و تکنیک‌های طراحی کیفیت کار خود را ارتقا دهم. همچنین از انتقال دانش و به‌اشتراک‌گذاری تجربیات خود با دیگران لذت می‌برم و همواره به دنبال فرصت‌هایی برای رشد و توسعه حرفه‌ی خود هستم.</p>
+            <p>من حسین فردمحمدی هستم. در زمینه‌ی طراحی پوستر و تولید محتوای گرافیکی برای وب و شبکه‌های اجتماعی فعالیت می‌کنم. در طول فعالیتم با گروه‌ها و مجموعه‌های مختلف، همواره تلاش کردم با استفاده از طراحی‌های ساده و خلاقانه پیام هر پروژه را به شکلی واضح و تأثیرگذار به مخاطب منتقل کنم.</p>
         </div>
         <div class="box">
             <h3 style="align-items: baseline;"><img src="/images/briefcase.svg" class="icon-title"> تجربیات</h3>
@@ -82,7 +83,7 @@ description: من حسین فردمحمدی هستم و در حوزه طراحی
                     <div class="timeline-content">
                     <p class="timeline-date">مهر ۱۴۰۳ تاکنون</p>
                     <h4>انتشارات نخل سبز</h4>
-                    <p style="font-size: 1em !important;">طراحی و صفحه آرایی، گرافیک شبکه‌های اجتماعی</p>
+                    <p style="font-size: 1em !important;">طراحی و صفحه آرایی، گرافیک شبکه‌های اجتماعی، رابط کاربری سایت</p>
                     <a href="https://greenpalm.net/" target="_blank" rel="nofollow">{{< icon "external-link" >}}</a>
                     </div>
                 </div>
@@ -143,7 +144,7 @@ description: من حسین فردمحمدی هستم و در حوزه طراحی
                 <a href="https://orooj.org/" target="_blank" rel="nofollow" title="تشکل فرهنگی عروج" class="logo-item"><img src="/images/logo1.png" alt="Logo 1"></a>
                 <a href="https://mfvm.ir/" target="_blank" rel="nofollow" title="موسسه ولاء منتظر" class="logo-item"><img src="/images/logo2.png" alt="Logo 2"></a>
                 <a href="https://steelon.org/" target="_blank" rel="nofollow" title="بازرگانی استیلون" class="logo-item"><img src="/images/logo3.png" alt="Logo 3"></a>
-                <a href="https://greenpalm.net/" target="_blank" rel="nofollow" title="انتشارات نخل‌سبز" class="logo-item"><img src="/images/logo7.png" alt="Logo 4"></a>
+                <a href="https://greenpalm.net/" target="_blank" rel="nofollow" title="انتشارات نخل‌سبز" class="logo-item"><img src="/images/greenpalm.webp" alt="Logo 4"></a>
                 <a href="https://www.instagram.com/tasnimlenjan/" target="_blank" rel="nofollow" title="موسسه تسنیم" class="logo-item"><img src="/images/logo6.png" alt="Logo 6"></a>
                 <a href="https://imj.eadl.ir/" target="_blank" rel="nofollow" title="سازمان قضایی نیروهای مسلح" class="logo-item"><img src="/images/logo5.png" alt="Logo 5"></a>
             </div>
