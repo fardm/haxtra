@@ -52,10 +52,10 @@ description: من حسین فردمحمدی هستم. در زمینه‌ی طر�
         <br>
         <p align="center">نرم‌افزارها<p>
         <div>
-            {{< skills title="Figma" value="80%" >}}
+            {{< skills title="Figma" value="75%" >}}
             {{< skills title="Photoshop" value="90%" >}}
             {{< skills title="Illustrator" value="80%" >}}
-            {{< skills title="Premiere" value="65%" >}}
+            <!-- {{< skills title="Premiere" value="65%" >}} -->
         </div>
         <br>
         <hr>
