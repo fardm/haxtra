@@ -46,9 +46,9 @@ menu:
     - name: نمونه‌کار‌ها
       pageRef: /portfolio
       weight: 2
-    - name: بلاگ
-      pageRef: /blog
-      weight: 3
+    # - name: بلاگ
+    #   pageRef: /blog
+    #   weight: 3
     - name: جستجو
       weight: 4
       params:
