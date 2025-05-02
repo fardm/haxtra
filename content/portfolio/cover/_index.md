@@ -7,7 +7,7 @@ sidebar:
 ---
 <div style="max-width: 70rem; margin: auto;">
 {{< cards >}}
-  {{< card link="artboard11" title="جلد کتاب ایرانشناسی" image="/images/portfolio/vitrin-11.webp" imageStyle="object-fit:cover;" >}}
+  {{< card link="artboard11" title="جلد کتاب ایران‌شناسی" image="/images/portfolio/vitrin-11.webp" imageStyle="object-fit:cover;" >}}
 {{< /cards >}}
 </div>
 

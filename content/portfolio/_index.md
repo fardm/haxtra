@@ -23,7 +23,7 @@ description: طراحی پوستر، کاتالوگ، گزارش عملکرد، 
 
   {{< card link="poster/artboard4" title="پوستر دوره سواد رسانه" image="/images/portfolio/vitrin-04.webp" imageStyle="object-fit:cover;" >}}
 
-  {{< card link="cover/artboard11" title="جلد کتاب ایرانشناسی" image="/images/portfolio/vitrin-11.webp" imageStyle="object-fit:cover;" >}}
+  {{< card link="cover/artboard11" title="جلد کتاب ایران‌شناسی" image="/images/portfolio/vitrin-11.webp" imageStyle="object-fit:cover;" >}}
 
   {{< card link="story/artboard6" title="استوری اجاره کلبه چوبی" image="/images/portfolio/vitrin-06.webp" imageStyle="object-fit:cover;" >}}
 
