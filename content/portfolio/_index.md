@@ -15,25 +15,23 @@ description: طراحی پوستر، کاتالوگ، گزارش عملکرد، 
 {{< /cards >}} -->
 
 {{< cards >}}
-  {{< card link="poster/artboard1" title="پوستر دوره ایلوستریتور" image="/images/portfolio/vitrin-01.webp" imageStyle="object-fit:cover;" >}}
-
-  {{< card link="catalogue/artboard2" title="گزارش عملکرد عروج" image="/images/portfolio/vitrin-02.webp" imageStyle="object-fit:cover;" >}}
-
-  {{< card link="story/artboard3" title="استوری دوره آموزشی" image="/images/portfolio/vitrin-03.webp" imageStyle="object-fit:cover;" >}}
-
-  {{< card link="poster/artboard4" title="پوستر دوره سواد رسانه" image="/images/portfolio/vitrin-04.webp" imageStyle="object-fit:cover;" >}}
-
-  {{< card link="cover/artboard11" title="جلد کتاب ایران‌شناسی" image="/images/portfolio/vitrin-11.webp" imageStyle="object-fit:cover;" >}}
-
-  {{< card link="story/artboard6" title="استوری اجاره کلبه چوبی" image="/images/portfolio/vitrin-06.webp" imageStyle="object-fit:cover;" >}}
-
   {{< card link="poster/artboard7" title="پوستر اتاق فرار" image="/images/portfolio/vitrin-07.webp" imageStyle="object-fit:cover;" >}}
 
-  {{< card link="catalogue/artboard8" title="کاتالوگ طرح‌نامه" image="/images/portfolio/vitrin-08.webp" imageStyle="object-fit:cover;" >}}
+
+  {{< card link="story/artboard6" title="استوری اجاره کلبه چوبی" image="/images/portfolio/vitrin-06.webp" imageStyle="object-fit:cover;" >}}
+  {{< card link="catalogue/artboard2" title="گزارش عملکرد عروج" image="/images/portfolio/vitrin-02.webp" imageStyle="object-fit:cover;" >}}
+  {{< card link="poster/artboard1" title="پوستر دوره ایلوستریتور" image="/images/portfolio/vitrin-01.webp" imageStyle="object-fit:cover;" >}}
+
+  {{< card link="story/artboard3" title="استوری دوره آموزشی" image="/images/portfolio/vitrin-03.webp" imageStyle="object-fit:cover;" >}}
+  {{< card link="cover/artboard11" title="جلد کتاب ایران‌شناسی" image="/images/portfolio/vitrin-11.webp" imageStyle="object-fit:cover;" >}}
+  {{< card link="poster/artboard4" title="پوستر دوره سواد رسانه" image="/images/portfolio/vitrin-04.webp" imageStyle="object-fit:cover;" >}}
 
   {{< card link="story/artboard9" title="استوری دوره ایتا مارکتینگ" image="/images/portfolio/vitrin-09.webp" imageStyle="object-fit:cover;" >}}
-
+  {{< card link="catalogue/artboard8" title="کاتالوگ طرح‌نامه" image="/images/portfolio/vitrin-08.webp" imageStyle="object-fit:cover;" >}}
   {{< card link="poster/artboard10" title="پوستر جشنواره رأی برتر" image="/images/portfolio/vitrin-10.webp" imageStyle="object-fit:cover;" >}}
+
+
+
   
 {{< /cards >}}
 </div>
