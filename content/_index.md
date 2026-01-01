@@ -15,8 +15,8 @@ description: حسین فردمحمدی هستم. در مسیر طراحی و د�
 <br/>
 
 <div align="center" class="group1">
-  <a href="http://instagram.com/hoseinfm.ir" title="اینستاگرام" class="footer-link" target="_blank"><img src="images/instagram.svg" class="footer-svg" alt="instagram"></a>
-  <a href="https://t.me/fardmim" title="تلگرام" class="footer-link" target="_blank"><img src="images/telegram.svg" class="footer-svg" alt="telegram"></a>
+  <a href="http://instagram.com/ifard.ir" title="اینستاگرام" class="footer-link" target="_blank"><img src="images/instagram.svg" class="footer-svg" alt="instagram"></a>
+  <a href="https://t.me/ifard_me" title="تلگرام" class="footer-link" target="_blank"><img src="images/telegram.svg" class="footer-svg" alt="telegram"></a>
   <a href="https://eitaa.com/fardmim" title="ایتا" class="footer-link" target="_blank"><img src="images/eitaa.svg" class="footer-svg" alt="eitaa"></a>
 </div>
 
