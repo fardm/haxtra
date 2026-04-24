@@ -16,6 +16,7 @@ sidebar:
 
 
   {{< card link="artboard10" title="پوستر جشنواره رأی برتر" image="/images/portfolio/vitrin-10.webp" imageStyle="object-fit:cover;" >}}
+  {{< card link="artboard5" title="پوستر دیپلماسی کتاب" image="/images/portfolio/vitrin-05.webp" imageStyle="object-fit:cover;" >}}
   
 {{< /cards >}}
 </div>

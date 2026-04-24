@@ -4,7 +4,7 @@ layout: wide
 ---
 
 {{< cards >}}
-  {{< card link="poster" title="نمونه‌کارها" icon="photograph" >}}
+  {{< card link="portfolio" title="نمونه‌کارها" icon="photograph" >}}
   {{< card link="https://fardm.github.io/ifard-cv/" title="رزومه" icon="user" >}}
 {{< /cards >}}
 

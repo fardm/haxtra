@@ -19,9 +19,9 @@ description: طراحی پوستر، کاتالوگ، گزارش عملکرد، 
   {{< card link="youtube/artboard12" title="تامنیل خودکشی ادواردو" image="/images/portfolio/vitrin-12.webp" imageStyle="object-fit:cover;" >}}
   {{< card link="instagram/artboard14" title="کاور پیج ایران عن قرب" image="/images/portfolio/vitrin-14.webp" imageStyle="object-fit:cover;" >}}
 
-  {{< card link="poster/artboard7" title="پوستر اتاق فرار" image="/images/portfolio/vitrin-07.webp" imageStyle="object-fit:cover;" >}}
+  {{< card link="poster/artboard5" title="پوستر دیپلماسی کتاب" image="/images/portfolio/vitrin-05.webp" imageStyle="object-fit:cover;" >}}
   {{< card link="poster/artboard10" title="پوستر جشنواره رأی برتر" image="/images/portfolio/vitrin-10.webp" imageStyle="object-fit:cover;" >}}
-    {{< card link="poster/artboard4" title="پوستر دوره سواد رسانه" image="/images/portfolio/vitrin-04.webp" imageStyle="object-fit:cover;" >}}
+  {{< card link="poster/artboard4" title="پوستر دوره سواد رسانه" image="/images/portfolio/vitrin-04.webp" imageStyle="object-fit:cover;" >}}
 
 
 
@@ -35,6 +35,7 @@ description: طراحی پوستر، کاتالوگ، گزارش عملکرد، 
 
 
   {{< card link="poster/artboard1" title="پوستر دوره ایلوستریتور" image="/images/portfolio/vitrin-01.webp" imageStyle="object-fit:cover;" >}}
+  {{< card link="poster/artboard7" title="پوستر اتاق فرار" image="/images/portfolio/vitrin-07.webp" imageStyle="object-fit:cover;" >}}
 
 
 
