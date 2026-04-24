@@ -40,9 +40,9 @@ markup:
 
 menu:
   main:
-    - name: درباره من
-      pageRef: /about
-      weight: 1
+    # - name: رزومه
+    #   pageRef: /https://ifard.ir
+    #   weight: 1
     - name: نمونه‌کار‌ها
       pageRef: /portfolio
       weight: 2
