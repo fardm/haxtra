@@ -8,9 +8,6 @@ sidebar:
 <div style="max-width: 70rem; margin: auto;">
 {{< cards >}}
   {{< card link="artboard2" title="گزارش عملکرد عروج" image="/images/portfolio/vitrin-02.webp" imageStyle="object-fit:cover;" >}}
-
-  {{< card link="artboard5" title="گزارش عملکرد موسسه تسنیم" image="/images/portfolio/vitrin-05.webp" imageStyle="object-fit:cover;" >}}
-
   {{< card link="artboard8" title="کاتالوگ طرح‌نامه" image="/images/portfolio/vitrin-08.webp" imageStyle="object-fit:cover;" >}}  
 {{< /cards >}}
 </div>

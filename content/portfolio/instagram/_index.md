@@ -7,6 +7,7 @@ sidebar:
 ---
 <div style="max-width: 70rem; margin: auto;">
 {{< cards >}}
+  {{< card link="artboard14" title="کاور پیج ایران عن قرب" image="/images/portfolio/vitrin-14.webp" imageStyle="object-fit:cover;" >}}
   {{< card link="artboard3" title="استوری دوره آموزشی" image="/images/portfolio/vitrin-03.webp" imageStyle="object-fit:cover;" >}}
 
   {{< card link="artboard6" title="استوری اجاره کلبه چوبی" image="/images/portfolio/vitrin-06.webp" imageStyle="object-fit:cover;" >}}
