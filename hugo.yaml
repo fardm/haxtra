@@ -40,12 +40,12 @@ markup:
 
 menu:
   main:
-    # - name: رزومه
-    #   pageRef: /https://ifard.ir
-    #   weight: 1
-    # - name: نمونه‌کار‌ها
-    #   pageRef: /portfolio
-    #   weight: 2
+    - name: رزومه ↖
+      url: "https://fardm.github.io/ifard-cv/"
+      weight: 2
+    - name: نمونه‌کار‌ها
+      pageRef: /portfolio
+      weight: 1
     # - name: بلاگ
     #   pageRef: /blog
     #   weight: 3
