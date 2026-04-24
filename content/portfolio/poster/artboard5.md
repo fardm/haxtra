@@ -13,7 +13,7 @@ cascade:
 
 <!-- جزئیات -->
 <div class="detail">
-{{< box title="کارفرما" info="دیپلماسی کتاب" link="https://imj.eadl.ir/" icon="/images/user.svg" >}}
+{{< box title="کارفرما" info="دیپلماسی کتاب" link="https://bookdiplomacy.ir/" icon="/images/user.svg" >}}
 {{< box title="تاریخ طراحی" info="آذر ۱۴۰۴" icon="/images/calendar.svg" >}}
 {{< box title="دسته بندی" info="پوستر" icon="/images/folder.svg" >}}
 </div>

@@ -14,7 +14,7 @@ cascade:
 
 <!-- جزئیات -->
 <div class="detail">
-{{< box title="کارفرما" info="انتشارات نخل سبز" icon="/images/user.svg" >}}
+{{< box title="کارفرما" info="انتشارات نخل سبز" link="https://greenpalm.pub/" icon="/images/user.svg" >}}
 {{< box title="تاریخ طراحی" info="فروردین 1405" icon="/images/calendar.svg" >}}
 {{< box title="دسته بندی" info="اینستاگرام" icon="/images/folder.svg" >}}
 </div>
