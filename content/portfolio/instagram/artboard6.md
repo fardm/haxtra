@@ -16,7 +16,7 @@ cascade:
 <div class="detail">
 {{< box title="کارفرما" info="-" icon="/images/user.svg" >}}
 {{< box title="تاریخ طراحی" info="خرداد ۱۴۰۱" icon="/images/calendar.svg" >}}
-{{< box title="دسته بندی" info="استوری موشن" icon="/images/folder.svg" >}}
+{{< box title="دسته بندی" info="اینستاگرام" icon="/images/folder.svg" >}}
 </div>
 
 <br/>

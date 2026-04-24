@@ -1,5 +1,5 @@
 ---
-title: پست و استوری
+title: اینستاگرام
 cascade:
   type: docs
 sidebar:
@@ -11,7 +11,7 @@ sidebar:
 
   {{< card link="artboard6" title="استوری اجاره کلبه چوبی" image="/images/portfolio/vitrin-06.webp" imageStyle="object-fit:cover;" >}}
 
-  {{< card link="artboard9" title="استوری موشن دوره ایتا مارکتینگ" image="/images/portfolio/vitrin-09.webp" imageStyle="object-fit:cover;" >}}
+  {{< card link="artboard9" title="استوری دوره ایتا مارکتینگ" image="/images/portfolio/vitrin-09.webp" imageStyle="object-fit:cover;" >}}
 {{< /cards >}}
 </div>
 

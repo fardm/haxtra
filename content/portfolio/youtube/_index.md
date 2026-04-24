@@ -1,5 +1,5 @@
 ---
-title: تامنیل یوتیوب
+title: یوتیوب
 cascade:
   type: docs
 sidebar:
@@ -7,7 +7,7 @@ sidebar:
 ---
 <div style="max-width: 70rem; margin: auto;">
 {{< cards >}}
-  {{< card link="artboard12" title="تامنیل یوتیوب ادواردو" image="/images/portfolio/vitrin-12.webp" imageStyle="object-fit:cover;" >}}
+  {{< card link="artboard12" title="تامنیل خودکشی ادواردو" image="/images/portfolio/vitrin-12.webp" imageStyle="object-fit:cover;" >}}
   {{< card link="artboard12" title="تامنیل ویدئوکست" image="/images/portfolio/vitrin-13.webp" imageStyle="object-fit:cover;" >}}
 
 {{< /cards >}}

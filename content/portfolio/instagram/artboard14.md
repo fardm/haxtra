@@ -1,6 +1,6 @@
 ---
-title: تامنیل خودکشی ادواردو
-weight: 12
+title: کاور پیج ایران عن قرب
+weight: 14
 cascade:
   type: docs
 ---
@@ -15,22 +15,22 @@ cascade:
 <!-- جزئیات -->
 <div class="detail">
 {{< box title="کارفرما" info="انتشارات نخل سبز" icon="/images/user.svg" >}}
-{{< box title="تاریخ طراحی" info="بهمن 1404" icon="/images/calendar.svg" >}}
-{{< box title="دسته بندی" info="تامنیل یوتیوب" icon="/images/folder.svg" >}}
+{{< box title="تاریخ طراحی" info="فروردین 1405" icon="/images/calendar.svg" >}}
+{{< box title="دسته بندی" info="اینستاگرام" icon="/images/folder.svg" >}}
 </div>
 
 <br/>
 
 <!-- تصاویر -->
 <div class="main-image">
-  <a href="/images/portfolio/art12-0.webp" data-fancybox="gallery">
-    <img src="/images/portfolio/art12-0.webp"/>
+  <a href="/images/portfolio/art14-0.webp" data-fancybox="gallery">
+    <img src="/images/portfolio/art14-0.webp"/>
   </a>
 </div>
 
-<!-- <div class="thumbnail-gallery">
-  {{< image-gallery image="/images/portfolio/art09-0.webp">}}
-</div> -->
+<div class="thumbnail-gallery">
+  {{< image-gallery image="/images/portfolio/art14-1.webp">}}
+</div>
 
 <br/>
 
