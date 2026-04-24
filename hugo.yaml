@@ -1,6 +1,6 @@
 # Configuration
 baseURL: "https://portfolio.ifard.ir/"
-title: حسین فردمحمدی
+title: ‌
 
 
 enableRobotsTXT: true
@@ -43,9 +43,9 @@ menu:
     # - name: رزومه
     #   pageRef: /https://ifard.ir
     #   weight: 1
-    - name: نمونه‌کار‌ها
-      pageRef: /portfolio
-      weight: 2
+    # - name: نمونه‌کار‌ها
+    #   pageRef: /portfolio
+    #   weight: 2
     # - name: بلاگ
     #   pageRef: /blog
     #   weight: 3
