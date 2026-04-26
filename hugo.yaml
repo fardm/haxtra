@@ -41,7 +41,7 @@ markup:
 menu:
   main:
     - name: رزومه ↖
-      url: "https://fardm.github.io/ifard-cv/"
+      url: "https://resume.fardm.ir"
       weight: 2
     - name: نمونه‌کار‌ها
       pageRef: /portfolio
